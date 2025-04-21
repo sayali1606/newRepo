@@ -14,4 +14,7 @@ public class Test {
 		System.out.println("hcksdj");
 	}
 
+	public void m2(){
+		System.out.println("m2 branch");
+	}
 }
